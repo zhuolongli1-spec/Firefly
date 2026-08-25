@@ -2,16 +2,16 @@
 	"cuteleaf/firefly": {
 		"description": "🍀Firefly, fresh and aesthetic Astro blog theme template. ",
 		"language": "Astro",
-		"forks": 1535,
-		"stars": 1953,
+		"forks": 1567,
+		"stars": 1978,
 		"avatarUrl": "https://avatars.githubusercontent.com/u/43440669?v=4",
 		"license": "MIT"
 	},
 	"saicaca/fuwari": {
 		"description": "✨A static blog template built with Astro. ",
 		"language": "Astro",
-		"forks": 1243,
-		"stars": 4935,
+		"forks": 1248,
+		"stars": 4941,
 		"avatarUrl": "https://avatars.githubusercontent.com/u/25200299?v=4",
 		"license": "MIT"
 	}
